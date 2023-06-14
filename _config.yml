@@ -1,26 +1,28 @@
 # Dependencies
-markdown:         redcarpet
+gems:             [jekyll-gist]
+markdown:         kramdown
 highlighter:      pygments
+plugins:          [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+# relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Welcome!
+# tagline:          'A Jekyll theme'
+description:      'I am <b>Debora Caldarola</b>.<br>You can find here news on my most recent research and activities.'
+url:              https://debcaldarola.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Debora Caldarola'
+  #url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          June 2023
 
 github:
   repo:           https://github.com/poole/hyde
