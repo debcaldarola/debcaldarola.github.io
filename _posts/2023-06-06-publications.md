@@ -1,17 +1,6 @@
 ---
-layout: page
+layout: post
 title: "Publications"
 ---
 
 
-// ### Preprints
-
-
-### Conference Papers
-
-
-
-// ### Journals
-
-
-### Master's Theses
