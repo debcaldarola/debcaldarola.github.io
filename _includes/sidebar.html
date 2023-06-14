@@ -6,10 +6,41 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead" style="color: floralwhite; font-size:larger">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
+
+      <center>
+        <a class="sidebar-nav-item" style="color:darkgray">name.surname at polito.it</a>
+        <br>
+        <!-- CV 
+        <a href="assets/cv-ciccone.pdf" onclick="_gaq.push(['_trackEvent', 'Click', 'CV Clicked']);" style="margin-right:14px;">
+          <i class="ai ai-cv" style="font-size: 32px;"></i>
+        </a> -->
+
+        <!-- Github -->
+        <a href="https://github.com/debcaldarola" onclick="_gaq.push(['_trackEvent', 'Click', 'git Clicked']);" style="margin-right:14px;">
+          <i class="fab fa-github" style="font-size:32px;"></i>
+          <!-- color: #A7A499" -->
+        </a>
+
+        <!-- Scholar -->
+        <a href="https://scholar.google.com/citations?user=rX-VwlcAAAAJ&hl" onclick="_gaq.push(['_trackEvent', 'Click', 'Scholar Clicked']);" style="margin-right:14px;">
+          <i class="ai ai-google-scholar big-icon" style="font-size:32px;"></i>
+        </a>
+
+        <!-- Twitter -->
+        <a href="https://twitter.com/debcaldarola" onclick="_gaq.push(['_trackEvent', 'Click', 'Twitter Clicked']);" style="margin-right:14px;">
+          <i class="fab fa-twitter" style="font-size:32px;"></i>
+        </a>
+
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/debora-caldarola" onclick="_gaq.push(['_trackEvent', 'Click', 'Linkedin Clicked']);">
+          <i class="fab fa-linkedin" style="font-size:32px;"></i>
+        </a>
+      </center>
+
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}
@@ -26,8 +57,14 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      <!-- <a class="sidebar-nav-item" href="{{ site.baseurl.news }}">News</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl.publications }}">Publications</a> -->
+
+
+      
+      
+      
+      <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>-->
       <span class="sidebar-nav-item" style="font-size:18px">Last updated {{ site.version }}</span>
     </nav>
 
