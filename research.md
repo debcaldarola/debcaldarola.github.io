@@ -9,7 +9,7 @@ title: "Research"
 ### Conference Papers
 <div style="font-size:medium">
 <div class='paper_line'> 
-    <a href="https://arxiv.org/abs/2210.02326">Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</a>. <a href="../bibtex/shenaj2023ladd.html" style="color:black;"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/Erosinho13/LADD" style="color:black;"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
+    <a href="https://arxiv.org/abs/2210.02326" target="_blank" rel="noopener noreferrer">Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</a>. <a href="{{ site.url }}/bibtex/shenaj2023ladd.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/Erosinho13/LADD" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -28,7 +28,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-20050-2_38">Improving Generalization in Federated Learning by Seeking Flat Minima</a>. <a href="../bibtex/caldarola2022improving.html" style="color:black;"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/debcaldarola/fedsam" style="color:black;"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-20050-2_38" target="_blank" rel="noopener noreferrer">Improving Generalization in Federated Learning by Seeking Flat Minima</a>. <a href="{{ site.url }}/bibtex/caldarola2022improving.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/debcaldarola/fedsam" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -47,7 +47,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://arxiv.org/abs/2202.13670">FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving</a>. <a href="../bibtex/fantauzzo2022feddrive.html" style="color:black;"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://feddrive.github.io" style="color:black;"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
+    <a href="https://arxiv.org/abs/2202.13670" target="_blank" rel="noopener noreferrer">FedDrive: Generalizing Federated Learning to Semantic Segmentation in Autonomous Driving</a>. <a href="{{ site.url }}/bibtex/fantauzzo2022feddrive.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://feddrive.github.io" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -66,7 +66,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://arxiv.org/abs/2201.10899">Speeding up Heterogeneous Federated Learning with Sequentially Trained Superclients</a>. <a href="../bibtex/zaccone2022fedseq.html" style="color:black;"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/RickZack/FedSeq" style="color:black;"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
+    <a href="https://arxiv.org/abs/2201.10899" target="_blank" rel="noopener noreferrer">Speeding up Heterogeneous Federated Learning with Sequentially Trained Superclients</a>. <a href="{{ site.url }}/bibtex/zaccone2022fedseq.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/RickZack/FedSeq" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -85,7 +85,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Caldarola_Cluster-Driven_Graph_Federated_Learning_Over_Multiple_Domains_CVPRW_2021_paper.html">Cluster-driven graph federated learning over multiple domains</a>. <a href="../bibtex/caldarola2021fedcg.html" style="color:black;"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a>
+    <a href="https://openaccess.thecvf.com/content/CVPR2021W/LLID/html/Caldarola_Cluster-Driven_Graph_Federated_Learning_Over_Multiple_Domains_CVPRW_2021_paper.html" target="_blank" rel="noopener noreferrer">Cluster-driven graph federated learning over multiple domains</a>. <a href="{{ site.url }}/bibtex/caldarola2021fedcg.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a>
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -112,7 +112,7 @@ title: "Research"
 <div style="font-size:medium">
 
 <div class='paper_line'> 
-    <a href="http://webthesis.biblio.polito.it/25564/">Speeding up convergence while preserving privacy in Heterogeneous Federated Learning</a>.
+    <a href="http://webthesis.biblio.polito.it/25564/" target="_blank" rel="noopener noreferrer">Speeding up convergence while preserving privacy in Heterogeneous Federated Learning</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -132,7 +132,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="http://webthesis.biblio.polito.it/25566/">Sequential to Parallel Federated Learning with Semantic-Aware Client Groupings</a>.
+    <a href="http://webthesis.biblio.polito.it/25566/" target="_blank" rel="noopener noreferrer">Sequential to Parallel Federated Learning with Semantic-Aware Client Groupings</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -152,7 +152,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://webthesis.biblio.polito.it/20566/">On the Challenges of Class Imbalance in Federated Learning for Semantic Segmentation</a>.
+    <a href="https://webthesis.biblio.polito.it/20566/" target="_blank" rel="noopener noreferrer">On the Challenges of Class Imbalance in Federated Learning for Semantic Segmentation</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -172,7 +172,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://webthesis.biblio.polito.it/19853/">On the Challenges of Federated Learning in Semantic Segmentation across Domains</a>.
+    <a href="https://webthesis.biblio.polito.it/19853/" target="_blank" rel="noopener noreferrer">On the Challenges of Federated Learning in Semantic Segmentation across Domains</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
