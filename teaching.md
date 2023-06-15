@@ -4,11 +4,14 @@ title: "Teaching"
 ---
 
 <!-- CSS -->
-<link rel="stylesheet" href="{{ site.url }}public/css/poole.css">
-<link rel="stylesheet" href="{{ site.url }}public/css/syntax.css">
-<link rel="stylesheet" href="{{ site.url }}public/css/hyde.css">
+<link rel="stylesheet" href="{{ site.url }}/public/css/poole.css">
+<link rel="stylesheet" href="{{ site.url }}/public/css/syntax.css">
+<link rel="stylesheet" href="{{ site.url }}/public/css/hyde.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}public/apple-touch-icon.png">
+  <link rel="shortcut icon" href="{{ site.url }}public/favicon.ico">
 
 
 #### A.y. 2022/2023
