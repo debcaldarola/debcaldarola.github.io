@@ -8,20 +8,9 @@ title: "Teaching"
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
 <link rel="stylesheet" href="{{ site.baseurl }}public/css/hyde.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-<!-- Enable responsiveness on mobile devices-->
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<title>
-{% if page.title == "Home" %}
-    {{ site.title }} &middot; {{ site.tagline }}
-{% else %}
-    {{ page.title }} &middot; {{ site.title }}
-{% endif %}
-</title>
 <!-- Icons -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon.png">
 <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
-<!-- RSS -->
-<link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
 
 #### A.y. 2022/2023
