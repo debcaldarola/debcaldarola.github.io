@@ -26,7 +26,8 @@ title: "Teaching"
 
 # Talks
 <ul style="font-size:medium">
-  <li><i>Towards Real World Federated Learning</i>. Stanford University (Stanford, CA)</li>
+  <li><i>Towards Real-world Federated Learning</i>. Stanford University (Stanford, CA)</li>
+  <li><i>Challenges in Real-world Federated Learning</i>. Continual Learning Reading Group with Isabelle Guyon (Director Research Scientist, Google Brain), Eleni Triantafillou (Research Scientist, Google Brain), Joaquin Vanschoren (Eindhoven University of Technology, OpenML founder).
   <li><i>Introduction to Federated Learning</i>. <a href="https://www.phd-ai.it/en/359-2/" target="_blank" rel="noopener noreferrer">Fall School - National PhD in Industry 4.0</a>, Politecnico di Torino (Turin​, IT)</li>
   <li><i>Introduction to Federated Learning</i>. <a href="https://mlopsss.cc" target="_blank" rel="noopener noreferrer">Machine Learning Operations Summer School 2022</a>, Technical University of Denmark (Copenaghen​, DK)</li>
 </ul>
