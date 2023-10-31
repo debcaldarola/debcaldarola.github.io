@@ -9,9 +9,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Welcome!
+title:            Hi!
 # tagline:          'A Jekyll theme'
-description:      'I am <b>Debora Caldarola</b>.<br>You can find here news on my most recent research and activities.'
+description:      'I am <b>Debora Caldarola</b>.<br>Welcome to my personal page.'
 url:              https://debcaldarola.github.io
 baseurl:          /
 
