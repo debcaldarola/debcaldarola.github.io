@@ -3,11 +3,48 @@ layout: page
 title: "Research"
 ---
 
-[comment]: <> ### Preprints
-
+[comment]: <> 
+### Preprints
+<div style="font-size:medium">
+<div class='paper_line'> 
+    Accelerating Federated Learning via Sequential Training of Grouped Heterogeneous Clients.
+</div>
+<div class='paper_line'>          
+        <!-- Authors -->  
+                <!-- Add "*" if more than one first author -->
+                <!-- Add "†" if more than one senior advisor-->
+                <!-- Highlight "me" as author with any style and add complete name to the list -->        
+            <!-- Create a string of authors -->
+            Andrea Silvi*, Andrea Rizzardi*, <b>Debora Caldarola</b>, Marco Ciccone, Barbara Caputo.
+            <!-- Create a string of Advisors (only if is thesis) -->
+</div>
+<div class='paper_line'>
+            <!-- Venue -->
+            <i>Under review</i> 
+</div>
+</div>
 
 ### Conference Papers
 <div style="font-size:medium">
+<div class='paper_line'> 
+    <a href="https://openaccess.thecvf.com/content/ICCV2023W/WiCV/papers/Caldarola_Window-Based_Model_Averaging_Improves_Generalization_in_Heterogeneous_Federated_Learning_ICCVW_2023_paper.pdf" target="_blank" rel="noopener noreferrer">Window-based Model Averaging Improves Generalization in Heterogeneous Federated Learning</a>. <a href="{{ site.url }}/bibtex/caldarola2023wima.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a>
+</div>
+<div class='paper_line'>          
+        <!-- Authors -->  
+                <!-- Add "*" if more than one first author -->
+                <!-- Add "†" if more than one senior advisor-->
+                <!-- Highlight "me" as author with any style and add complete name to the list -->        
+            <!-- Create a string of authors -->
+             <b>Debora Caldarola</b>, Barbara Caputo, Marco Ciccone.
+            <!-- Create a string of Advisors (only if is thesis) -->
+</div>
+<div class='paper_line'>
+            <!-- Venue -->
+            <i>International Conference on Computer Vision Workshop</i> (<i>ICCVW</i>), 2023. 
+</div>
+
+<br>
+
 <div class='paper_line'> 
     <a href="https://arxiv.org/abs/2210.02326" target="_blank" rel="noopener noreferrer">Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning</a>. <a href="{{ site.url }}/bibtex/shenaj2023ladd.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/Erosinho13/LADD" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
 </div>
