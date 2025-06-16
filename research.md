@@ -25,7 +25,7 @@ title: "Research"
 <br>
 
 <div class='paper_line'> 
-    <a href="https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Dutto_Collaborative_Visual_Place_Recognition_through_Federated_Learning_CVPRW_2024_paper.html" target="_blank" rel="noopener noreferrer">Collaborative Visual Place Recognition through Federated Learning</a>. <a href="{{ site.url }}/bibtex/caldarola2025fedgloss.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> <sup><a href="https://github.com/pietrocagnasso/fedgloss" style="color:black;" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" style="font-size:15px;"></i></a></sup>
+    <a href="https://openaccess.thecvf.com/content/CVPR2024W/FedVision-2024/html/Dutto_Collaborative_Visual_Place_Recognition_through_Federated_Learning_CVPRW_2024_paper.html" target="_blank" rel="noopener noreferrer">Collaborative Visual Place Recognition through Federated Learning</a>. <a href="{{ site.url }}/bibtex/dutto2024fedvpr.html" style="color:black;" target="_blank" rel="noopener noreferrer"> <iconify-icon icon="file-icons:bibtex"></iconify-icon></a> 
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
