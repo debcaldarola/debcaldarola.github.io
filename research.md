@@ -186,7 +186,7 @@ title: "Research"
 <div style="font-size:medium">
 
 <div class='paper_line'> 
-    <a href="http://webthesis.biblio.polito.it/29436/" target="_blank" rel="noopener noreferrer">Efficiency and Generalization in Federated Learning: Insights from Sharpness-Aware Minimization.</a>.
+    <a href="http://webthesis.biblio.polito.it/29432/" target="_blank" rel="noopener noreferrer">Efficiency and Generalization in Federated Learning: Insights from Sharpness-Aware Minimization</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
@@ -207,7 +207,7 @@ title: "Research"
 
 
 <div class='paper_line'> 
-    <a href="http://webthesis.biblio.polito.it/29436/" target="_blank" rel="noopener noreferrer">Visual Transformers for Federated Learning: Exploring the Role of Architecture Layers in Generalization Enhancement.</a>.
+    <a href="http://webthesis.biblio.polito.it/29436/" target="_blank" rel="noopener noreferrer">Visual Transformers for Federated Learning: Exploring the Role of Architecture Layers in Generalization Enhancement</a>.
 </div>
 <div class='paper_line'>          
         <!-- Authors -->  
